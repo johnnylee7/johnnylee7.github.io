@@ -1,3 +1,21 @@
-p {
-  color: red;
-  }
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content {
+		background-color: rgba(0,0,0,0.7);
+		color: white;
+		padding: 40px;
+		height: 2600px;
+		width: 1000px;
+		margin: 70px auto;
+}
+
+.profile_pic {
+	height: 300px;
+	border-radius: 50%;
+	
